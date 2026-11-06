@@ -29,13 +29,13 @@ Make sure you have the following installed:
 **1. Clone the repository**
 
 ```bash
-git clone https://github.com/Sohrab-Malikzada/Car-Rental-MERN-Stack.git
+git clone https://github.com/Sohrab-Malikzada/Full-Stack-CarRental.git
 ```
 
 **2. Install frontend dependencies**
 
 ```bash
-cd Car-Rental-MERN-Stack/client
+cd Full-Stack-CarRental/client
 npm install
 ```
 
@@ -51,7 +51,7 @@ npm install
 Create a `.env` file in the `server` directory and add your configuration:
 
 ```env
-PORT=5000
+PORT=3000
 MONGODB_URI=your_mongodb_connection_string
 JWT_SECRET=your_jwt_secret
 ```
